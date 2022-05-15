@@ -6,7 +6,7 @@ menu from which a user can order food.
 If you already know basic HTML, CSS, TypeScript and React, you should be able to
 complete this exercise in 4-6 hours. If you don't, I recommend that you to look
 at my
-[React Learning Resources](https://github.com/nareshbhatia/react-learning-resources)
+[React Learning Resources](https://github.com/AkkiParekh/react-learning-resources)
 which include a crash course in these technologies as well as deeper resources
 to learn React.
 
